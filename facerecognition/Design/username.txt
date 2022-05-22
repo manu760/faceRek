@@ -1,0 +1,115 @@
+2022-02-22T15:36:54.803Z	160ad08d-3939-4909-a1f0-f686bc64aa3b	INFO	{
+    "resource": "/{username}",
+    "path": "/user1",
+    "httpMethod": "GET",
+    "headers": {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+        "accept-encoding": "gzip, deflate, br",
+        "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+        "Host": "l9t2v6cnv2.execute-api.us-east-1.amazonaws.com",
+        "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "none",
+        "sec-fetch-user": "?1",
+        "upgrade-insecure-requests": "1",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+        "X-Amzn-Trace-Id": "Root=1-62150316-31fc611a54dcff115ef634d5",
+        "X-Forwarded-For": "158.94.110.184",
+        "X-Forwarded-Port": "443",
+        "X-Forwarded-Proto": "https"
+    },
+    "multiValueHeaders": {
+        "accept": [
+            "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        "accept-encoding": [
+            "gzip, deflate, br"
+        ],
+        "accept-language": [
+            "en-GB,en-US;q=0.9,en;q=0.8"
+        ],
+        "Host": [
+            "l9t2v6cnv2.execute-api.us-east-1.amazonaws.com"
+        ],
+        "sec-ch-ua": [
+            "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\", \"Google Chrome\";v=\"98\""
+        ],
+        "sec-ch-ua-mobile": [
+            "?0"
+        ],
+        "sec-ch-ua-platform": [
+            "\"Windows\""
+        ],
+        "sec-fetch-dest": [
+            "document"
+        ],
+        "sec-fetch-mode": [
+            "navigate"
+        ],
+        "sec-fetch-site": [
+            "none"
+        ],
+        "sec-fetch-user": [
+            "?1"
+        ],
+        "upgrade-insecure-requests": [
+            "1"
+        ],
+        "User-Agent": [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+        ],
+        "X-Amzn-Trace-Id": [
+            "Root=1-62150316-31fc611a54dcff115ef634d5"
+        ],
+        "X-Forwarded-For": [
+            "158.94.110.184"
+        ],
+        "X-Forwarded-Port": [
+            "443"
+        ],
+        "X-Forwarded-Proto": [
+            "https"
+        ]
+    },
+    "queryStringParameters": null,
+    "multiValueQueryStringParameters": null,
+    "pathParameters": {
+        "username": "user1"
+    },
+    "stageVariables": null,
+    "requestContext": {
+        "resourceId": "9djm9f",
+        "resourcePath": "/{username}",
+        "httpMethod": "GET",
+        "extendedRequestId": "N81rfEafoAMFbYg=",
+        "requestTime": "22/Feb/2022:15:36:54 +0000",
+        "path": "/prod/user1",
+        "accountId": "587070664613",
+        "protocol": "HTTP/1.1",
+        "stage": "prod",
+        "domainPrefix": "l9t2v6cnv2",
+        "requestTimeEpoch": 1645544214135,
+        "requestId": "ac5c0d7f-ccc2-4303-bd18-f98eb2ae5346",
+        "identity": {
+            "cognitoIdentityPoolId": null,
+            "accountId": null,
+            "cognitoIdentityId": null,
+            "caller": null,
+            "sourceIp": "158.94.110.184",
+            "principalOrgId": null,
+            "accessKey": null,
+            "cognitoAuthenticationType": null,
+            "cognitoAuthenticationProvider": null,
+            "userArn": null,
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+            "user": null
+        },
+        "domainName": "l9t2v6cnv2.execute-api.us-east-1.amazonaws.com",
+        "apiId": "l9t2v6cnv2"
+    },
+    "body": null,
+    "isBase64Encoded": false
+}
